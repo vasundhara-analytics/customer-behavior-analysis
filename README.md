@@ -4,8 +4,6 @@
 _End-to-end project focused on data cleaning, data analysis and dashboard-driven business insights using Python, SQL, Power BI._
 
 ---
----
----
 
 
 ## 📌 Table of Contents
@@ -142,7 +140,7 @@ Customer-Behavior-Analysis
 1. Clone the repository:
 
 ```bash
-git clone <your-github-link>
+git clone https://github.com/vasundhara-analytics/customer-behavior-analysis.git
 ```
 
 2. Load the CSV and Run Python Jyputer notebook:
